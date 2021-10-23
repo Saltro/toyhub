@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AAAAA,QAAQC,IAAI","sources":["webpack://plane-war-game/./main.js"],"sourcesContent":["console.log(\"main.js\")"],"names":["console","log"],"sourceRoot":""}
